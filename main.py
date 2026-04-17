@@ -16,6 +16,7 @@ import uuid
 import os
 import json
 import re
+import pandas as pd
 import csv
 import shutil
 from io import StringIO
